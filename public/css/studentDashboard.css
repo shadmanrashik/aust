@@ -1,0 +1,77 @@
+.container{
+	margin-top: 5%;
+}
+
+.profile_pic{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	position: relative;
+	z-index: -1;
+}
+
+
+
+.edit_pic{
+	height: 35px;
+	width: 160px;
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-bottom: 5%;
+	background-color: #388E3C;
+	color: #ffffff;
+	font-size: 18px;
+
+	border: 2px solid #ffffff;
+	border-radius: 3px;
+	box-shadow: 5px 10px 8px #1B5E20;
+}
+
+.edit_pic:hover{
+	background-color: #1B5E20;
+    color: #ffffff;
+    box-shadow: 15px 20px 18px #1B5E20;
+
+}
+
+.info{
+	border-left: 2px solid #388E3C;
+}
+
+.main_info{
+	margin-top: 10%;
+}
+
+h2{
+	position: relative;
+	z-index: -1;
+}
+
+label{
+	font-size: 18px;
+	width: 300px;
+	position: relative;
+	z-index: -1;
+}
+
+p{
+	font-size: 18px;
+	position: relative;
+	z-index: -1;
+}
+
+.edit{
+	margin-bottom: 5%;
+	background-color: #388E3C;
+	color: #ffffff;
+	border: 2px solid #000000;
+	border-radius: 3px;
+	box-shadow: 3px 8px 6px #1B5E20;	
+}
+
+.edit:hover{
+	background-color: #1B5E20;
+    color: #ffffff;
+    box-shadow: 5px 10px 8px #1B5E20;
+}
